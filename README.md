@@ -15,5 +15,5 @@
   <h2>Operations</h2>
   <div>
     <img src="sreenshots/screenshot4.jpg" alt="Operations Screenshot 1" width="300">
-    <img src="sreenshots/screenshot5jpg" alt="Operations Screenshot 2" width="300">
+    <img src="sreenshots/screenshot5.jpg" alt="Operations Screenshot 2" width="300">
   </div>
